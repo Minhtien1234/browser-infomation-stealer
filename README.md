@@ -188,11 +188,11 @@ Using this tool for illegal purposes is against the law. The developer is not re
 
 ## 🔄 Version History / Lịch Sử Phiên Bản
 
-### v1.0.0 (2025-01-20)
+### v1.0.0 (2025-09-28)
 - Initial release / Phát hành đầu tiên
 - Full system information collection / Thu thập đầy đủ thông tin hệ thống
 - Multi-browser support / Hỗ trợ đa trình duyệt
-- WiFi network extraction / Trích xuất mạng WiFi
+- Undetect / Khó phát hiện
 
 ## 📄 License / Giấy Phép
 
